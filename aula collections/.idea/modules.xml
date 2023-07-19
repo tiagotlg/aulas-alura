@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/aula collections.iml" filepath="$PROJECT_DIR$/aula collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/desafio final/desafio final.iml" filepath="$PROJECT_DIR$/desafio final/desafio final.iml" />
+    </modules>
+  </component>
+</project>
